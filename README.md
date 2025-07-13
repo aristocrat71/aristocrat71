@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitul Sheth</h1>
 <h3 align="center">A lazy yet passionate software developer from 📍Pune, India</h3>
 
-<h3 align="center"><a href="https://dev-mitul.netlify.app/">&lt;Click to view my Web Profile !&gt;</a></h3>
+<h3 align="center"><a href="https://dev-mitul.netlify.app/" target="blank">&lt;Click to view my Web Profile !&gt;</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
